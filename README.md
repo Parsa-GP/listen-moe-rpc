@@ -1,3 +1,5 @@
+# DEPRECATED: Use https://github.com/Parsa-GP/music-rpc
+
 # listen.moe DiscordRPC
 
 ## Playing listen.moe songs + DiscordRPC
